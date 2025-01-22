@@ -1,0 +1,120 @@
+#page1{
+    height:87%;
+    width: 100%;
+}
+#stripe{
+    height: 8%;
+    width: 100%;
+    background-color: rgba(0, 0, 84, 0.936);
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+#stripe img{
+    height: 20px;
+    margin-top: 5px;
+}
+#stripe p{
+    margin: 5px;
+    font-weight: 700;
+}
+#stripe u{
+    font-weight:600;
+    font-size:small;
+    margin-left: 20px;
+}
+#middleContent{
+    height: 73%;
+    width: 100%;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+#box1{
+    width: 47%;
+    height: 90%;
+    background-color: white;  
+}
+#box1 h1{
+    height: 35%;
+    font-weight:600;
+    font-size: 45px;
+    margin-top: 35px;
+    margin-left: 30px;
+    color: rgb(2, 5, 97);
+}
+
+#box1 p{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+#btn{
+    height: 30%;
+    margin-top: 45px;
+    margin-left: 25px;
+    display: flex;
+    text-align: center;
+}
+#btn1{
+    height: 40%;
+    width: 26%;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 5%;
+    color: white;
+    background-color: rgb(39, 133, 234);
+}
+#btn1:hover{
+    background-color: rgb(2, 7, 104);
+}
+#btn2{
+    height: 40%;
+    width: 26%;
+    margin-left: 10px;
+    border-radius: 5%;
+    padding: 10px 20px;
+    color: rgb(39, 133, 234);
+    border: 2px solid rgb(39, 133, 234);
+}
+#btn2:hover{
+    color: rgb(6, 6, 72);
+    border-color: rgb(6, 6, 72);
+    background-color: rgb(214, 222, 237);
+}
+#box2{
+    position: relative;
+    width: 47%;
+    height: 90%;
+}
+#box2 img{
+    width: 100%;
+    height: 100%;
+    display: block;
+    align-items: center;
+    display: flex;
+}
+#box2 video{
+    position: absolute;
+    top: 17%;
+    right: 10%;
+    width: 100%;
+    max-width: 500px; 
+    height: auto;
+    border-radius: 10px;
+}
+#lastHeading{
+    height: 19%;
+    width: 100%;
+    font-size: xx-large;
+    font-weight:bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(3, 3, 70);
+    background-color: white;
+}

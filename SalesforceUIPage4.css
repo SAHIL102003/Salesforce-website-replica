@@ -1,0 +1,147 @@
+#page4{
+    height: 87%;
+    width: 100%;
+    background-color: white;
+}
+
+    #part1boxes{
+        height: 79%;
+        width: 100%;
+        display: flex;
+    }
+        #boxicon{
+            height: 100%;
+            width: 50%;
+            background-color: white;
+        }
+        #symbol{
+            margin-top: 40px;
+            margin-left: 140px;
+        }
+        #boxicon img{
+            height: 30%;
+            width: 25%;
+            object-fit: cover;
+        }
+        #media{
+            font-size: 32px;
+            margin-left: 132px;
+            margin-top: 35px;
+            display: flex;
+            color: rgb(69, 69, 69);
+        }
+        #media i{
+            margin: 8px;
+        }
+        #divtext{
+            margin-left: 143px;
+            margin-top: 15px;
+            color: rgb(69, 69, 69);
+            font-weight: bold;
+            font-size: medium;
+        }
+        #newsalesforce{
+            height: 100%;
+            width: 15%;
+            color: rgb(39, 39, 39);
+            background-color: white;
+        }
+        .classque h4{
+            font-size: small;
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        .classque p{
+            font-size: smaller;
+            color: rgb(10, 99, 163);
+            margin-top: 15px;
+        }
+        #about{
+            height: 100%;
+            width: 20%;
+            display: flex;
+            background-color: white;
+        }
+        .classabout h4{
+            font-size: small;
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        .classabout p{
+            font-size: smaller;
+            color: rgb(10, 99, 163);
+            margin-top: 15px;
+        }
+        #popularlinks{
+            height: 100%;
+            width: 30%;
+            background-color: white;
+        }
+        .classlinks h4{
+            font-size: small;
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        .classlinks p{
+            font-size: smaller;
+            color: rgb(10, 99, 163);
+            margin-top: 15px;
+        }
+
+    #part2footer{
+        height: 21%;
+        width: 100%;
+        color: white;
+        background-color: rgb(8, 40, 100);
+        display: flex;
+    }
+    #worldwide{
+        height: 100%;
+        width: 20%;
+        display: flex;
+        margin-left: 160px;
+        padding-top: 3px;
+    }
+    #worldwide p{
+        width: auto;
+        font-size: 17px;
+        margin: 10px;
+    }
+    #worldwide h4{
+        font-size: 17px;
+        margin: 10px;
+    }
+    #footerinfo{
+        height: 100%;
+        width: 80%;
+    }
+    .div1stline{
+        display: flex;
+        margin-top: 15px;
+    }
+    .div1stline p{
+        margin-left: 10px;
+        font-size: smaller;
+    }
+    .div1stline u:hover{
+        color: rgb(86, 148, 235);
+    }
+    #div2ndline{
+        margin-top: 6px;
+        margin-left: 10px;
+        font-size: smaller;
+    }
+    #div2ndline u:hover{
+        color: rgb(86, 148, 235);
+    }
+    .class3rdline{
+        margin-top: 6px;
+        display: flex;
+    }
+    .class3rdline p{
+        margin-left: 10px;
+        font-size: smaller;
+    }
+    .class3rdline u:hover{
+        color: rgb(86, 148, 235);
+    }
